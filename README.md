@@ -1,12 +1,12 @@
-FLxER AV Mixer 4.1 ALPHA
+FLxER AV Mixer 4.2 ALPHA
 =============
-PC / MAC
+PC / MAC / LINUX
 
 https://flxer.net
 
 Published
 ------------
-14-05-2006
+12-11-2006
 ```
 ///////////////////////////////////////////
 /                                         /
