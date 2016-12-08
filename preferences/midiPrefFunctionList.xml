@@ -1,0 +1,38 @@
+<root>
+	<midiCtrl midiID="" fnz="hiQuality" />
+	<midiCtrl midiID="" fnz="fullScreen" />
+	<midiCtrl midiID="" fnz="mouseShowHide" />
+	<midiCtrl midiID="" fnz="topBarShowHide" />
+	<midiCtrl midiID="" fnz="bottomBarShowHide" />
+	<midiCtrl midiID="" fnz="moveDown" ch="auto" />
+	<!--
+	<midiCtrl midiID="" fnz="moveDown" ch="1" />
+	<midiCtrl midiID="" fnz="moveDown" ch="2" />
+	<midiCtrl midiID="" fnz="moveDown" ch="3" />
+	<midiCtrl midiID="" fnz="moveDown" ch="4" />
+	<midiCtrl midiID="" fnz="moveDown" ch="5" />
+	<midiCtrl midiID="" fnz="moveDown" ch="6" /
+	<midiCtrl midiID="" fnz="moveDown" ch="7" /
+	>-->
+	<midiCtrl midiID="" fnz="moveUp" ch="auto" />
+	<midiCtrl midiID="" fnz="hideShow" ch="auto" />
+	<midiCtrl midiID="" fnz="stopPlay" ch="auto" />
+	<midiCtrl midiID="" fnz="rewind" ch="auto" />
+	<midiCtrl midiID="" fnz="tap" ch="auto" />
+	<midiCtrl midiID="" fnz="eject" ch="auto" />
+	<midiCtrl midiID="" fnz="reset" ch="auto" />
+	<midiCtrl midiID="" fnz="lockWipes" ch="auto" />
+	<midiCtrl midiID="" fnz="libraryScroller" val="1" ch="auto" />	
+	<midiCtrl midiID="" fnz="libraryScroller" val="-1" ch="auto" />
+	<midiCtrl midiID="" fnz="zoomOneByOne" val="1,-1" ch="auto" />
+	<midiCtrl midiID="" fnz="sliderOneByOne" val="1,-1" ch="auto" />
+	<midiCtrl midiID="" fnz="zoom" val="1,1600" ch="auto" />
+	<midiCtrl midiID="" fnz="rotate" val="1,1600" ch="auto" />
+	<midiCtrl midiID="" fnz="scratch" val="0,800" ch="auto" />
+	<midiCtrl midiID="" fnz="redMovie" val="-255,255" ch="auto" />
+	<midiCtrl midiID="" fnz="greenMovie" val="-255,255" ch="auto" />
+	<midiCtrl midiID="" fnz="bluMovie" val="-255,255" ch="auto" />
+	<midiCtrl midiID="" fnz="slider" val="0,100" ch="auto" />
+	<midiCtrl midiID="" fnz="movieScroller" val="1,-1" ch="auto" />
+	<midiCtrl midiID="" fnz="changeChannel" val="2,7" ch="auto" />
+</root>

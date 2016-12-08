@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<librarys path="librarys/">
+	<lib m="default_h.xml" />
+	<lib m="default_nh.xml" />
+	<lib m="default_ks.xml" />
+	<lib m="multiMedia.xml" />
+</librarys>

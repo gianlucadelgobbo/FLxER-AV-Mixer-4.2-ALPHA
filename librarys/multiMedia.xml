@@ -1,0 +1,6 @@
+<lib>
+	<library name="[all]_ks.flx" path="library/othersFiles/">
+		<mov m="Alimoettaccitu.mp3" />
+		<mov m="strada.jpg" />
+	</library>
+</lib>
